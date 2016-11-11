@@ -1,5 +1,5 @@
-THis is a simple water level base in ultrasonic sensor in 
-Python, PHP and GoogleCharts for RPi. 
+<h1>This is a simple water level base in ultrasonic sensor in 
+Python, PHP and GoogleCharts for RPi</h1> 
 
 Go to your www folder and clone the project. if you prefer download
 just copy and paste on www folder. 
