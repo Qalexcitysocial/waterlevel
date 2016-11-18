@@ -1,3 +1,22 @@
+#!/usr/bin/env python
+
+##############################################################################
+#
+# Written by Alex Gomez for the Raspberry Pi - 2016
+#
+# Website:
+# Contact: by email
+#
+# Please feel free to use and modify this code for you own use.
+#
+# This program is designed to send an email with a subject line,
+# an attachment, a sender, multiple receivers, Cc receivers and Bcc receivers.
+# In addition it will also read a pre prepared file and use it's contents to
+# create the body of the email
+# I hope you are enjoy with this example and is usefull for you
+#
+##############################################################################
+
 import RPi.GPIO as GPIO
 import time
 import MySQLdb
