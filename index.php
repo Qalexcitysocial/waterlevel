@@ -97,7 +97,7 @@ if (mysqli_num_rows($result) > 0) {
             var $winHeight = $( window ).height()
             $( '.container' ).height( $winHeight );
         });
-
+//leds block
     </script>
     <div class="led-box">
         <div class="led-green"></div>
@@ -113,7 +113,7 @@ if (mysqli_num_rows($result) > 0) {
 
 
 <!--Water Tank BAR -->
-<div id="chart_div" style="width: 200px; height: 500px;"></div>
+<div id="chart_div" style="width: 200px; height: 400px;"></div>
 
     <script type="text/javascript">
 google.charts.load('current', {'packages':['corechart']});
